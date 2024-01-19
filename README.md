@@ -1,4 +1,4 @@
-# Guided Practice Readme
+# Workshop Acme Employees 
 
-Please look at your Canvas Guided Practice for instructions,
-and, if available, your cohort playlist.
+- see instructions in canvas
+
